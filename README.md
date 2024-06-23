@@ -244,38 +244,8 @@ router.patch('/:id/like', (req, res) => {
 module.exports = router;
 \`\`\`
 
-## 🚀 Subir Código no GitHub
+## 🎥 Vídeo no YouTube
 
-### Inicialize um repositório Git
-
-\`\`\`bash
-cd /path/to/project
-git init
-git add .
-git commit -m "Initial commit"
-\`\`\`
-
-### Crie um repositório no GitHub
-
-Vá para GitHub e crie um novo repositório.
-
-### Configure o repositório remoto e faça push
-
-\`\`\`bash
-git remote add origin https://github.com/username/social-app.git
-git push -u origin master
-\`\`\`
-
-## 🎥 Subir Vídeo no YouTube
-
-### Grave um vídeo
-
-- Mostre o funcionamento do app usando um emulador ou dispositivo real.
-- Explique rapidamente a estrutura e as funcionalidades principais.
-
-### Edite e suba no YouTube
-
-- Adicione uma descrição clara, tags relevantes e um título descritivo.
 
 ## 📚 Recursos Úteis
 
