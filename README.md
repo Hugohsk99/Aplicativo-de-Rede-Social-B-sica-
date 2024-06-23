@@ -335,12 +335,3 @@ git push -u origin master
 - [Documentação do Mongoose](https://mongoosejs.com/)
 - [Tutorial de React Navigation](https://reactnavigation.org/)
 """
-
-# Caminho para salvar o README.md
-readme_path = "README.md"
-
-# Escreve o conteúdo no arquivo README.md
-with open(readme_path, "w", encoding="utf-8") as readme_file:
-    readme_file.write(readme_content)
-
-print("README.md criado com sucesso!")
